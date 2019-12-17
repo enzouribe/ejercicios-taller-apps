@@ -16,6 +16,10 @@
      
   
   .caja-principal {
+    margin: 0 auto;
+    margin-top: 230px;
+    margin-bottom: 230px;    
+    width: 250px;
     display: grid;
     align-items: center;
     justify-items: center;
